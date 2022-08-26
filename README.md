@@ -1,6 +1,6 @@
 # URAPTJ
 
-This project was bootstrapped with Create React App]
+This project was bootstrapped with Create React App
 
 Open https://www.uraptj.com/ to view it in your browser.
 
